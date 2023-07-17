@@ -1,5 +1,12 @@
 # MyNewRepository
+# Мой первый репозиторий
 _Hello! My name is ~~RespK11~~  **Artem Timoshenko**! I m old 30 years! I m stady in Netology_
+
+_Привет! Меня зовут Артём, мне 30 лет и я учусь на нетологии_
+
+Я изучаю сейчас:
++ Java
++ Git
 
 ---
 
